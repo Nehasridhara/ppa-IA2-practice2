@@ -1,1 +1,9 @@
-
+ gcc -g p2original.c
+ ./a.out
+enter value:
+5
+enter value:
+6
+enter value:
+9
+scalene
