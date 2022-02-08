@@ -1,1 +1,7 @@
+ gcc -g p1original.c
+ ./a.out
+enter the values:
+4
+5
+Area of triangle is ((4.000000*5.000000)/2))=10.000000:
 
