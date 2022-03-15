@@ -1,1 +1,7 @@
-
+ gcc -g p5original.c
+ ./a.out
+enter the numbers:
+12
+enter the numbers:
+16
+the HCF of 12 and 16 is 4:
