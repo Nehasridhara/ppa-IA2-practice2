@@ -1,1 +1,12 @@
-
+ gcc -g p8original.c
+ ./a.out
+Enter number of triangles: 2
+Enter base length: 2
+Enter altitude length: 3
+Enter base length: 4
+Enter altitude length: 6
+The smallest of triangles with base & height:
+2.000000  &  3.000000
+4.000000  &  6.000000
+is triangle with
+Base- 2.000000 & Altitude- 3.000000 having Area- 3.000000
