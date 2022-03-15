@@ -1,1 +1,16 @@
-
+ gcc -g p4original.c
+ ./a.out
+Enter number of values:
+5
+Enter number:
+1
+Enter number:
+2
+Enter number:
+7
+Enter number:
+8
+Enter number:
+12
+Sum is: 20:
+ 
