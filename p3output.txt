@@ -1,5 +1,14 @@
- gcc -g p3original.c
+ gcc -g p3original.c
  ./a.out
 enter the number:
 8
-composite
+composite ./a.out
+enter the number:
+2
+not composite ./a.out
+enter the number:
+3
+not composite ./a.out
+enter the number:
+6
+composite 

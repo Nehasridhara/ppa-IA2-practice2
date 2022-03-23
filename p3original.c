@@ -10,7 +10,7 @@ int input()
 int composite(int n)
 {
   int i;
-  for(i=2;i<n/2;i++)
+  for(i=2;i<=n/2;++i)
   {
     if(n%i==0)
     return 0;
@@ -22,9 +22,9 @@ int composite(int n)
 void output(int n,int composite)
 {
   if(composite==0)
-  printf(" not  composite");
-  else
   printf("composite");
+  else
+  printf("not composite");
 }
 
 int main()
