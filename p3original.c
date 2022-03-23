@@ -22,9 +22,9 @@ int composite(int n)
 void output(int n,int composite)
 {
   if(composite==0)
-  printf("composite");
+  printf(" not  composite");
   else
-  printf("not composite");
+  printf("composite");
 }
 
 int main()
